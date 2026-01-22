@@ -1,0 +1,65 @@
+[
+  {
+    "type": "Sphere",
+    "position": [ 3.0, 0.0, 0.0 ],
+    "scale": [ 1.0, 1.0, 1.0 ],
+    "rotation": [ 0.0, 0.0, 0.0 ],
+    "color": [ 0.0, 255.0, 255.0 ]
+  },
+  {
+    "type": "Box",
+    "position": [ 3.0, 0.0, 3.0 ],
+    "scale": [ 1.0, 1.0, 1.0 ],
+    "rotation": [ 0.0, 45.0, 0.0 ],
+    "color": [ 255.0, 255.0, 255.0 ]
+  },
+  {
+    "type": "Torus",
+    "position": [ 3.0, 0.0, 6.0 ],
+    "scale": [ 1.0, 1.0, 1.0 ],
+    "rotation": [ 0.0, 0.0, 0.0 ],
+    "color": [ 125.0, 125.0, 125.0 ]
+  },
+  {
+    "type": "Hexagon",
+    "position": [ 3.0, 0.0, 9.0 ],
+    "scale": [ 1.0, 1.0, 1.0 ],
+    "rotation": [ 90.0, 0.0, 0.0 ],
+    "color": [ 100.0, 100.0, 150.0 ]
+  },
+  {
+    "type": "Octahedron",
+    "position": [ 3.0, 0.0, 12.0 ],
+    "scale": [ 1.0, 1.0, 1.0 ],
+    "rotation": [ 0.0, 0.0, 0.0 ],
+    "color": [ 255.0, 0.0, 255.0 ]
+  },
+  {
+    "type": "Cone",
+    "position": [ 3.0, 1.0, 15.0 ],
+    "scale": [ 2.0, 1.0, 1.0 ],
+    "rotation": [ 0.0, 0.0, 0.0 ],
+    "color": [ 255.0, 255.0, 0.0 ]
+  },
+  {
+    "type": "MengerSponge",
+    "position": [ 3.0, 0.0, 18.0 ],
+    "scale": [ 1.0, 1.0, 1.0 ],
+    "rotation": [ 0.0, 0.0, 0.0 ],
+    "color": [ 0.0, 0.0, 255.0 ]
+  },
+  {
+    "type": "SierpinskiTetrahedron",
+    "position": [ 3.0, 0.0, 21.0 ],
+    "scale": [ 1.0, 1.0, 1.0 ],
+    "rotation": [ 0.0, 0.0, 0.0 ],
+    "color": [ 255.0, 0.0, 0.0 ]
+  },
+  {
+    "type": "Mandelbulb",
+    "position": [ 3.0, 0.0, 24.0 ],
+    "scale": [ 1.0, 1.0, 1.0 ],
+    "rotation": [ -90.0, 25.0, 0.0 ],
+    "color": [ 0.0, 255.0, 0.0 ]
+  }
+]
